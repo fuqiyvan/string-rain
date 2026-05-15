@@ -1,7 +1,9 @@
 # string-rain
-# string-rain
 
-This project gathers a wealth of practical utilities into a refined toolkit collection. I will continuously polish details, enrich functional features and maintain long-term iterative updates. Sincere feedback and valuable suggestions are warmly welcomed. Please cherish this original work and avoid unauthorized reproduction, modification or repackaging.
+-This project gathers a wealth of practical utilities into a refined toolkit collection. 
+-I will continuously polish details, enrich functional features and maintain long-term iterative updates. 
+-Sincere feedback and valuable suggestions are warmly welcomed. 
+-Please cherish this original work and avoid unauthorized reproduction, modification or repackaging.
 
 ---
 
