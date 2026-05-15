@@ -4,4 +4,4 @@
 ## Usage Notice
 *Anyone may download and use this project freely,except for commercial purposes.*
 ---
-***Press the / key on your keyboard to input the command.You can input ＂/help" for help.
+***Press the ` / ` key on your keyboard to input the command.You can input ＂/help" for help.***
