@@ -12,9 +12,9 @@
 
 ---
 
-***Press the <kbd> / </kbd> key on your keyboard to input the command. You can input `/help` to view detailed help information and operation guidelines.***
+**Press the <kbd>/</kbd> key on your keyboard to input the command. You can input `/help` to view detailed help information and operation guidelines.**
 
 ---
 
 - **The main file of this project named 1,0字符串雨.**
-- *You must be sure you have a python*
+- *You must be sure you have a python editor*
