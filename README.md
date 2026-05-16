@@ -17,3 +17,4 @@
 ---
 
 - **The main file of this project named 1,0字符串雨.**
+- *You must be sure you have a python*
